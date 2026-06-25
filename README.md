@@ -5,7 +5,6 @@ An AI-powered ATS (Applicant Tracking System) Resume Analyzer built using React,
 Upload your resume, receive an ATS score, identify strengths and weaknesses, extract important keywords, and get personalized recommendations to improve your chances of landing interviews.
 
 ---
-## Project Link
 
 
 
